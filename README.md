@@ -2,7 +2,7 @@
 
 ### Ödev İçeriği
 
-* CRUD Web Service (h2 database kullanılacaktır.)
+* CRUD Web Service 
 * Create / Update / Delete / Search
 * Model :
     * Post
